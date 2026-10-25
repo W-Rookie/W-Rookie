@@ -4,6 +4,13 @@ Copy the encrypted message below:
 
 💡 *Hint: Base46 - XOR:rookie707*
 
+<p align="center">
+  <a href="https://w-rookie.github.io">
+    <img src="https://img.shields.io/badge/SECURITY_BLOG-W--ROOKIE-ff2b32?style=for-the-badge&logo=githubpages&logoColor=white" alt="W-Rookie Security Blog">
+  </a>
+</p>
+<p align="center"><b>모의해킹 · 취약점 진단 · 보안 프로젝트 기록</b></p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -44,15 +51,15 @@ Copy the encrypted message below:
 ### 🏅 Competition Projects
 | Project Name | Short Summary | Tech Stack | Code |
 | :--- | :--- | :---: | :---: |
-| 🚜 Sk Shieldus Rookies Project : 파일업로드 정적 분석 기반 악성코드 위험도 추론 및 배치 평가 모듈 | 협업으로 진행된 프로젝트 Rookie Part. 2단계 ML 모델 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/SK_Shieldus_project1/blob/main/src/ml/predict.py) |
-| 🛡️ SK Shieldus Rookies : OWASP Juice Shop 모의해킹 프로젝트 | OWASP Juice Shop 가상환경을 대상으로 팀 협업 모의해킹을 수행하고, 웹 애플리케이션의 주요 취약점을 식별·분석하여 공격 시나리오, 영향도 및 보안 조치 방안을 보고서로 작성 | <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white"> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/SK_Shieldus_Rookies34_Penetration-Testing-Project/tree/main) |
+| 🚜 Sk Shieldus Rookies Project : 파일업로드 정적 분석 기반 악성코드 위험도 추론 및 배치 평가 모듈 | 협업으로 진행된 프로젝트 Rookie Part. 2단계 ML 모델 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white"> | [📁](https://github.com/W-Rookie/SK_Shieldus_project1/blob/main/src/ml/predict.py) |
+| 🛡️ SK Shieldus Rookies : OWASP Juice Shop 모의해킹 프로젝트 | OWASP Juice Shop 가상환경을 대상으로 팀 협업 모의해킹을 수행하고, 웹 애플리케이션의 주요 취약점을 식별·분석하여 공격 시나리오, 영향도 및 보안 조치 방안을 보고서로 작성 | <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white"> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white"> | [📁](https://github.com/W-Rookie/SK_Shieldus_Rookies34_Penetration-Testing-Project/tree/main) |
 | 🤖 SK Shieldus Rookies : ROOKIESCAN 웹 취약점 자동 진단 프로젝트 | Sink 탐색과 OpenAI Function Calling으로 진단 대상을 분류하고, SQL Injection·XSS·SSRF·인증·인가·파일 업로드/다운로드 등 9종 스캐너를 공통 실행 구조로 통합 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"> | [📁](https://github.com/W-Rookie/Automatic-scanner-tool) |
 
 ### 💡 General Projects
 | Project Name | Short Summary | Tech Stack | Code |
 | :--- | :--- | :---: | :---: |
-| 🎮 파일업로드 실시간 모니터링 및 자동화 차단 | 파일업로드 실시간으로 모니터링하고 악의적인 확장자 (exe, php) 등 허용되지 않는 확장자 검증하여 자동화 차단 시스템 개발하게 된 계기 : 파일업로드에 악의적인 파일을 업로드 하여 데이터를 추출할려는 것을 방지하기 위함 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/File-upload-monitoring-and-automated-blocking) |
-| 🚩 Reflected XSS | python으로 개발한 Reflected XSS 자동화 스크립트 튤 개발 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/Reflected-XSS) |
+| 🎮 파일업로드 실시간 모니터링 및 자동화 차단 | 파일업로드 실시간으로 모니터링하고 악의적인 확장자 (exe, php) 등 허용되지 않는 확장자 검증하여 자동화 차단 시스템 개발하게 된 계기 : 파일업로드에 악의적인 파일을 업로드 하여 데이터를 추출할려는 것을 방지하기 위함 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"> | [📁](https://github.com/W-Rookie/File-upload-monitoring-and-automated-blocking) |
+| 🚩 Reflected XSS | python으로 개발한 Reflected XSS 자동화 스크립트 튤 개발 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | [📁](https://github.com/W-Rookie/Reflected-XSS) |
 
 ---
 
