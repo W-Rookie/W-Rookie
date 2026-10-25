@@ -4,12 +4,17 @@ Copy the encrypted message below:
 
 💡 *Hint: Base46 - XOR:rookie707*
 
+---
+
+## 🌐 Security Blog
+
 <p align="center">
   <a href="https://w-rookie.github.io">
     <img src="https://img.shields.io/badge/SECURITY_BLOG-W--ROOKIE-ff2b32?style=for-the-badge&logo=githubpages&logoColor=white" alt="W-Rookie Security Blog">
   </a>
 </p>
 <p align="center"><b>모의해킹 · 취약점 진단 · 보안 프로젝트 기록</b></p>
+<p align="center"><a href="https://w-rookie.github.io">w-rookie.github.io ↗</a></p>
 
 ---
 
