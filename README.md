@@ -8,20 +8,32 @@ Copy the encrypted message below:
 
 ## 🌐 Security Blog
 
-<p align="center">
-  <a href="https://w-rookie.github.io">
-    <img src="https://img.shields.io/badge/GITHUB_BLOG-W--ROOKIE-ff2b32?style=for-the-badge&logo=githubpages&logoColor=white" alt="W-Rookie GitHub Security Blog">
-  </a>
-  <a href="https://w-key.tistory.com">
-    <img src="https://img.shields.io/badge/TISTORY-W--KEY-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="W-Key Tistory Blog">
-  </a>
-</p>
-<p align="center"><b>모의해킹 · 취약점 진단 · 보안 프로젝트 기록</b></p>
-<p align="center">
-  <a href="https://w-rookie.github.io">GitHub Blog ↗</a>
-  &nbsp;·&nbsp;
-  <a href="https://w-key.tistory.com">Tistory ↗</a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <h3>GitHub Security Blog</h3>
+      <a href="https://w-rookie.github.io">
+        <img src="https://img.shields.io/badge/GITHUB_BLOG-W--ROOKIE-ff2b32?style=for-the-badge&logo=githubpages&logoColor=white" alt="W-Rookie GitHub Security Blog">
+      </a>
+      <br><br>
+      <b>모의해킹 · 취약점 진단 · 보안 프로젝트 기록</b>
+      <br>
+      <a href="https://w-rookie.github.io">w-rookie.github.io ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <h3>Tistory Blog</h3>
+      <a href="https://w-key.tistory.com">
+        <img src="https://img.shields.io/badge/TISTORY-W--KEY-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="W-Key Tistory Blog">
+      </a>
+      <br><br>
+      <b>정보보안 학습 · 기술 기록 아카이브</b>
+      <br>
+      <a href="https://w-key.tistory.com">w-key.tistory.com ↗</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
