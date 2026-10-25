@@ -8,10 +8,10 @@ Copy the encrypted message below:
 
 ## 🌐 Security Blog
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td align="center" width="100%">
-      <h3>GitHub Security Blog</h3>
+      <h3 align="center">GitHub Security Blog</h3>
       <a href="https://w-rookie.github.io">
         <img src="https://img.shields.io/badge/GITHUB_BLOG-W--ROOKIE-ff2b32?style=for-the-badge&logo=githubpages&logoColor=white" alt="W-Rookie GitHub Security Blog">
       </a>
@@ -23,7 +23,7 @@ Copy the encrypted message below:
   </tr>
   <tr>
     <td align="center" width="100%">
-      <h3>Tistory Blog</h3>
+      <h3 align="center">Tistory Blog</h3>
       <a href="https://w-key.tistory.com">
         <img src="https://img.shields.io/badge/TISTORY-W--KEY-eb531f?style=for-the-badge&logo=tistory&logoColor=white" alt="W-Key Tistory Blog">
       </a>
