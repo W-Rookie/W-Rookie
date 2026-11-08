@@ -39,16 +39,24 @@ Copy the encrypted message below:
 
 ## 🛠️ Tech Stack
 
-<!-- 원하는 기술 스택 뱃지를 추가하세요 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Web%20Hacking-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-231F20?style=for-the-badge&logo=nmap&logoColor=white">
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+### Operating Systems
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+
+### Security Tools
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+<img src="https://img.shields.io/badge/Nmap-231F20?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+
+### Security Focus
+<img src="https://img.shields.io/badge/Penetration%20Testing-FF2B32?style=for-the-badge" alt="모의해킹 Penetration Testing">
+<img src="https://img.shields.io/badge/Vulnerability%20Assessment-6B46C1?style=for-the-badge" alt="취약점 진단 Vulnerability Assessment">
+<img src="https://img.shields.io/badge/Web%20Hacking-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Hacking">
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP">
 
 ---
 
