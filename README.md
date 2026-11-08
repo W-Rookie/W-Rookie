@@ -1,8 +1,8 @@
 # 🔓 Encrypted Message
 Copy the encrypted message below:
-> `C5Jv7GKSCpJ/62O/C51zJwqec+t6swqNX+pyswu8QycLmWLsbI8MjEMpx+tHkgy0U+xUswuSby8KklPqZb7OJwy3V+t9tw20RycLmW/rbbIMjG/sbKPJJwunZ+xog8fqcrMKhV4nC5l/6nKzC6Bn7VSnx+tssQuRU+t9k8Ymx+p+kwuaU+prgg==`
+> `4puG5Yub45uW4oq24pSaLy7ik7ou5LaO4pOKLuKTs+S9ri7kvYrihZLlharlhYYu4q6O4pme5LyCLuS6juKFouKTui7ikIbikrLiha7kvo4u5b265Lu+4pSaIC40JwQE4q6O5YSaLuKum+W9uuW9uuKbhi7luIrim7LimZ7iipIu45eS5YGX45uW5YSaLuOBh+W8muObki7ijKLlkILikIvlhYblhaogBARZUVxhYWVna+KTli5Z5YSaLllmZ3prLkZveuKTii7lkrXjm6flhYblhaogLlxhYWVna+WTsuWEmi7lhYfliqrikIrimZ7lhJou4rqG4oWi4pCe4pOWLuWphuKTguKTii7ikI3iqY4u4puE5Lyu5YWq5YSaLuWSteKTii7lhbrim5bihLvlhYblhaogBATik7PimLrirbLii5riipIu5L6e4oyi45un5YWG5YWqIC40JwQE5L275Lyn4pOWLuS6juKuniIu5b6n4pi64pCe4pOWLuS2vuWvky4jLllRXGFhZWdr`
 
-💡 *Hint: Base46 - XOR:rookie707*
+💡 *Hint: Base46 - XOR:Rookie_WH*
 
 ---
 
@@ -106,7 +106,7 @@ Copy the encrypted message below:
 | Category | Description | Period |
 | :--- | :--- | :---: |
 | 🎓 Gwangju University | 사이버보안경찰학과 | 2027.02 졸업예정 |
-| 🚀 Sk Shieldus Rookies 34 | 생성형AI 활용 사이버보안 전문인력 양성과정 | 2026.07 ~ 진행중 |
+| 🚀 SK Shieldus Rookies 34 | 생성형AI 활용 사이버보안 전문인력 양성과정 | 2026.07 ~ 진행중 |
 
 ---
 
